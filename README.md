@@ -1,2 +1,2 @@
 # HELLO-WORLD
-FIRST STEP
+ this is a test project named hello world
